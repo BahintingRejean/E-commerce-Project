@@ -1,0 +1,11 @@
+.text-gray-700 {
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255);
+}
+div.dt-container select.dt-input {
+    width: 100px;
+}
+
+div.dt-container .dt-search input {
+    width: 264px;
+}
